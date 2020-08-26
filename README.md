@@ -25,15 +25,15 @@ Clone the Github repository to a local directory. Create a virtual environment i
 
 ## Features
 
-- Implemented both the Q-Learning Algorithm and the Frozen Lake environment from scratch
+- Implemented both the Q-Learning algorithm and the Frozen Lake environment from scratch
 - Can see the agent traverse the environment after training via the console of the IDE or terminal 
 - Environment can be altered to make it bigger but would need to make some small changes to the code to do so
 - Use of OOP in Python can be used as template for future projects
 
 ## Technologies Used
 
-- [Visual Studio Code](https://code.visualstudio.com/) - IDE used to build the project
-- [Python 3.8.3](https://www.python.org/downloads/) - Programming language used
+- [PyCharm](https://www.jetbrains.com/pycharm/) - IDE used to build the project
+- [Python 3.8.5](https://www.python.org/downloads/) - Programming language used
 
 ## Acknowledgements
 
