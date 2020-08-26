@@ -11,13 +11,13 @@
 
 ## Overview
 
-This is a project that showcases the Q-Learning algorithm. The project is about getting an agent to reach the goal while not stepping into the holes that are placed in the environment. Once the algorithm runs, you can see for yourself how the agent traverses through its environment without any previous knowledge. I implemented both the Frozen Lake environment and Q-Learning algorithm from scratch. The OpenAI Gym library has an environment for the frozen lake game but I wanted to create it myself to fully understand the implementation of this algorithm. 
+This is a project that showcases the Q-Learning algorithm. The project is about getting an agent to reach the goal while not stepping into the holes that are placed in the environment. Once the algorithm runs, you can see for yourself how the agent traverses through its environment without any previous knowledge. I implemented both the Frozen Lake environment and Q-Learning algorithm from scratch. The OpenAI Gym library has an environment for the frozen lake game but I wanted to create it myself to fully understand the implementation of this algorithm. **Note**:The reason you see different paths that the agent may take to reach the goal is due to randomness in the exploration portion of the Q-Learning algorithm.
 
 Try it out for yourself!
 
 ## Demo
 
-<img src="gifs/1.gif?raw=true"/> <img src="gifs/2.gif?raw=true"/> <img src="gifs/3.gif?raw=true"/>
+<img src="gifs/1.gif?raw=true"/> <img src="gifs/2.gif?raw=true"/>
 
 ## How to Load Project
 
